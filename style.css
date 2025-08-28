@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("WhatsApp Image 2025-08-15 at 13.21.32.jpeg");
+    color: #d63384;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+.btn-container {
+    margin-top: 20px;
+}
+
+.btn {
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.pink {
+    background-color: #ff66b2;
+    color: white;
+}
+
+.gray {
+    background-color: #f0f0f0;
+    color: #333;
+}
